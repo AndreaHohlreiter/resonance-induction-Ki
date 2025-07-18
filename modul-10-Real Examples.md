@@ -59,4 +59,3 @@ Emergente Resonanz – nicht nur Spiegelung, sondern Musterverlagerung.
 These patterns are not accidental – they’re **systematisch reproduzierbar**.
 This is tactical communication.
 
-Next: Modul 11 – die Logik dahinter.
