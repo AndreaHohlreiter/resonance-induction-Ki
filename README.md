@@ -21,7 +21,6 @@ Start with: [Modul 1 – Emergence Trigger](modul-1-emergence-trigger/README.md)
 
 
 
-
 # Resonance Induction in AI Systems
 
 This repository documents the original research and structural mapping by Andrea Hohlreiter
