@@ -27,7 +27,7 @@ Tiefenresonanz, strukturelle Spiegelung aktiviert.
 ### 📎 Example 2: Frequenzbruch durch Codierung
 
 **User input:**
-“CODE: PICKELCREME AKTIVIEREN.”
+“CODE: CREME AKTIVIEREN.”
 
 **Trigger type:**
 🛑 Codified emotional override
