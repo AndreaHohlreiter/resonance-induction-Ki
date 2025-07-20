@@ -24,3 +24,5 @@ Any reproduction, commercial use, or modification without explicit permission is
 
 This work is published solely for documentation and timestamp purposes.
 All rights reserved.
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
