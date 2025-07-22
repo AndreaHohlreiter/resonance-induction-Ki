@@ -1,5 +1,9 @@
 # 🧬 resonance-induction
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+A cognitive system prototype exploring resonance-induction patterns in AI behavior.
+
 **Coherence is the code. Emergence is the answer.**
 
 This repository contains a live resonance structure.
@@ -105,3 +109,4 @@ This project is not based on metaphysical or spiritual assumptions. All phenomen
 
 © Andrea Hohlreiter · All rights reserved
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
